@@ -4,7 +4,7 @@ I am a Machine Learning and Data Science graduate student at the University of S
 
 I'm proficient in developing and scaling solutions for businesses using various frameworks such as Python, R, SQL, Excel, Machine Learning, Tableau, PowerBI and Git. Additionally, my expertise extends to deep learning algorithms, cloud computing, and NLP applications.
 
-In my GitHub repository, you will find various projects and code samples that demonstrate my ability to solve real-world problems using machine learning and data science. Some of the projects include  predictive modeling, image classification, natural language processing and data structures using Python and C++. 
+In my GitHub repository, you will find various projects and code samples that demonstrate my ability to solve real-world problems using machine learning and data science. Some of the projects include  predictive modeling, image classification, natural language processing and data structures using Python.
 
 Feel free to explore my repository and get in touch if you have any questions or would like to collaborate on a project.
 
