@@ -1,8 +1,10 @@
 ### Hi there 👋. I'm Gopi!
 
-I am a Machine Learning and Data Science graduate student at the University of Southern California and a data science professional with 3+ years of experience solving complex business problems for CPG, Retail, Marketing and Pharma industries using advanced analytics, statistics, and machine learning.
+I'm a Data Science and Analytics professional with a strong passion for leveraging data to drive business growth and make informed decisions.  
 
-I'm proficient in developing and scaling solutions for businesses using various frameworks such as Python, R, SQL, Excel, Machine Learning, Tableau, PowerBI and Git. Additionally, my expertise extends to deep learning algorithms, cloud computing, and NLP applications.
+Hands-on experience of 3+ years in providing high-impact solutions to complex business problems for CPG (FMCG), Retail and Pharma industry verticals using advanced analytics, statistics and machine learning. 
+
+Proficient in various developing, scaling and deploying machine learning solution frameworks along with expertise in Predictive Analytics, Python, R, SQL, Spark, AWS, R Shiny, Tableau, PowerBI, MATLAB, C++, Git, deep learning, cloud and NLP applications.
 
 In my GitHub repository, you will find various projects and code samples that demonstrate my ability to solve real-world problems using machine learning and data science. Some of the projects include  predictive modeling, image classification, natural language processing and data structures using Python.
 
